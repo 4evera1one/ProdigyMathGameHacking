@@ -57,6 +57,10 @@
 <br/>
 4.) A dropdown arrow will appear after 15-20 seconds.
 
+## Cheat Menus
+- Will's Cheat Menu (Default)
+- Leo's Cheat Menu (Coming Soon - Ultra Alpha)
+
 ## Motivation
 
 <details>
